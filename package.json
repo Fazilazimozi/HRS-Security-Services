@@ -1,0 +1,17 @@
+{
+  "name": "hrs-security-e2e-tests",
+  "version": "1.0.0",
+  "description": "Playwright end-to-end test suite for HRS Security Services Command Centre app",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.48.0",
+    "@types/node": "^22.0.0",
+    "typescript": "^5.0.0"
+  }
+}
